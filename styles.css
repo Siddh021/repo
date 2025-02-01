@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #2a52be;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -8,13 +8,17 @@ body {
 }
 
 .clr{
-    background-color: #87ceeb;
+    background-color: #2a52be;
 }
 header {
     background-color: #007acc;
     color: white;
     padding: 20px;
     font-size: 24px;
+}
+
+.txt{
+    color: white;
 }
 
 .intro {
