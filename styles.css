@@ -2,10 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     text-align: center;
-    color: #333;
     margin: 0;
     padding: 0;
-    border: 5px solid red;
+    border: 10px solid red;
 }
 
 .clr{
