@@ -20,6 +20,8 @@ header {
 
 .txt{
     color: white;
+    margin: 0px;
+    padding: 20px;
 }
 
 .intro {
